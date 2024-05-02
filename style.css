@@ -152,6 +152,14 @@ u {
   text-decoration: none; /* Remove underline */
 }
 
+.header a:link {
+  color: black;
+}
+
+.header a:hover {
+  color: rgba(245, 158, 158, 1);
+}
+
 /* rr-project */
 body {
   font-family: "Gabarito";
